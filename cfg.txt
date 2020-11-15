@@ -1,0 +1,3 @@
+Screen Size: 800
+Board Colour 1: 172 207 120
+Board Colour 2: 255 255 255
